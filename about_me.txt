@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+I'm Marcus Lewis, a sophomore in the Engineering and Business schools, majoring in Business and Computer Science, and my favorite movie series is Terminator.
